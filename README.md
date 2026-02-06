@@ -4,7 +4,7 @@ I'm a developer focused on building practical and scalable software from web app
 
 ---
 ### What I Work On
-- Backend & full-stack development (Python, Django)
+- Backend & full-stack development (Python, Django, FastAPI)
 - Game development (Unity, C#)
 - Automation and scripting
 - API-driven systems
