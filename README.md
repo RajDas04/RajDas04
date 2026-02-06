@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hello There 👋
+#### I'm Debjit Das (Raj)
+I'm a developer focused on building practical and scalable software from web applications to game systems, automation tools and backend services.
 
-<!--
-**RajDas04/RajDas04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### What I Work On
+- Backend & full-stack development (Python, Django)
+- Game development (Unity, C#)
+- Automation and scripting
+- API-driven systems
 
-Here are some ideas to get you started:
+### I'm Currently Exploring
+- Advanced backend architecture
+- System design
+- Performance optimization
+- AI & Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Tech Stack
+- Python, Django, C#
+- Unity, HTML/CSS, Bootstrap
+- Git, REST APIs
+
+### How to Reach Me
+- GitHub: [@RajDas04](https://github.com/RajDas04)
+- Linkedin: [Debjit Das](www.linkedin.com/in/debjit-das-a3a84a347)
+- Email: [Gmail](debjit826@gmail.com)
+
+---
+Always open to learning and collaboration.
